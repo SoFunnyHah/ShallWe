@@ -24,7 +24,7 @@
 }
 
 .stars {
-  background: black url(../public/stars.png) repeat;
+  background: black url(../public/images/stars.png) repeat;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -37,7 +37,7 @@
 .twinkling {
   width: 100%;
   height: 100%;
-  background: transparent url("../public/twinkling.png") repeat;
+  background: transparent url("../public/images/twinkling.png") repeat;
   background-size: 1000px 1000px;
   position: absolute;
   top: 0;

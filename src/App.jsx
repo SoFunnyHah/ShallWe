@@ -41,10 +41,10 @@ function App() {
 
   return (
     <div className="background-container">
-      <img src="/moon2.png" alt="" />
+      <img src="/images/moon2.png" alt="" />
       <div className="stars"></div>
       <div className="twinkling"></div>
-      <img className='ppl' src='/testai.png' alt='ppl' />
+      <img className='ppl' src='/images/testai.png' alt='ppl' />
       <div className='flex-body'>
       <div className="container">
         <p className='title'>Пойдешь со мной на свидание?</p>
