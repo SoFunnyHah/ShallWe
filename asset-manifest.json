@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShallWe/static/css/main.4815d3e3.css",
+    "main.js": "/ShallWe/static/js/main.a5506301.js",
+    "static/media/twinkling.png": "/ShallWe/static/media/twinkling.fc744b9f52f39bb5a443.png",
+    "static/media/stars.png": "/ShallWe/static/media/stars.90c266f7d69f1ffb6137.png",
+    "index.html": "/ShallWe/index.html",
+    "main.4815d3e3.css.map": "/ShallWe/static/css/main.4815d3e3.css.map",
+    "main.a5506301.js.map": "/ShallWe/static/js/main.a5506301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4815d3e3.css",
+    "static/js/main.a5506301.js"
+  ]
+}
